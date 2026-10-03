@@ -1,4 +1,4 @@
-# loja on - titulo para campanha de frete
+# loja on - titulo para campanha atual
 
 ## contato
 dividas: contato@.com.br
