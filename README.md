@@ -1,4 +1,4 @@
-# loja on - campanha de ano novo
+# loja on - titulo para campanha de frete
 
 ## contato
 dividas: contato@.com.br
