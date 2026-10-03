@@ -1,4 +1,4 @@
-# loja on
+# loja on - campanha de black friday
 
 ## contato
 dividas: contato@.com.br
