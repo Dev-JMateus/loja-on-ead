@@ -1,4 +1,4 @@
-# loja on - campanha de natal
+# loja on - campanha de ano novo
 
 ## contato
 dividas: contato@.com.br
